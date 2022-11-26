@@ -129,11 +129,13 @@ div.video > iframe{
 }
 
 p#reference{
+    font-size: .85em;
     line-height: 2.5em;
+    padding-top: 10px;
 }
 
 footer{
-    font-size: .8em;
+    font-size: .7em;
     font-weight: bold;
     text-align: center;
     background-color: var(--cor4);
