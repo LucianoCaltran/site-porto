@@ -24,11 +24,14 @@
 body{
     font-family: var(--fonte-destaque);
     /*background-image: linear-gradient(to top, var(--cor2), var(--cor4));*/
+    background-color: var(--cor4);
     background-image: url('../imagens/aZ.png');
+    
    
     
 }
 header{
+    background-color: var(--cor4);
     background-image: url('../imagens/Porto_Montage2.jpg');
     background-position: center center;
     background-size: cover;
