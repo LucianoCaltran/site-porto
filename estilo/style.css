@@ -23,7 +23,6 @@
 
 body{
     font-family: var(--fonte-destaque);
-    /*background-image: linear-gradient(to top, var(--cor2), var(--cor4));*/
     background-color: var(--cor4);
     background-image: url('../imagens/aZ.png');
     
