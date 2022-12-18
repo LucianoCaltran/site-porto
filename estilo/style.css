@@ -85,7 +85,7 @@ main article h1{
     font-size: 4em;
     font-weight: lighter;
     color: var(--cor5);
-    text-shadow: 1px 1px 1px var(--cor4);
+    text-shadow: 2px 1px 1px var(--cor4);
     text-align: center;
     margin: 15px 0px 15px 0px;
 }
