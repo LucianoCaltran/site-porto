@@ -70,7 +70,8 @@ main {
     min-width: 300px;
     max-width: 1000px;
     color: black;
-    background-color: rgb(240, 238, 238);
+    background-color: rgb(240, 240, 240);
+    background-image: url('../imagens/old-paper-texture-background_118047-1365.webp');
     padding: 10px 30px 30px 30px;
     box-shadow: 2px 2px 8px var(--cor1);
     margin-bottom: 30px;
@@ -82,8 +83,8 @@ main article h1 {
     font-family: var(--fonte-special);
     font-size: 5em;
     font-weight: lighter;
-    color: var(--cor2);
-    text-shadow: 2px 1px 2px var(--cor1);
+    color: var(--cor1);
+    text-shadow: 2px 1px 2px var(--cor2);
     text-align: center;
     margin: 15px 0px;
     padding: 10px;
@@ -99,6 +100,7 @@ main article h2 {
 }
 
 main article p {
+    color: black;
     line-height: 1.5em;
     font-size: 1.06em;
     font-weight: bolder;
@@ -146,5 +148,4 @@ footer {
 
 #github:hover {
     color: var(--cor3);
-    font-size: 1.1em;
 }
