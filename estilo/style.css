@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 :root {
     
     --cor1: #232e70;
@@ -12,6 +13,7 @@
     --fonte-padrão: 'Times New Roman', Times, serif;
     --fonte-destaque: 'Titillium Web', sans-serif;
     --fonte-porto: 'Pinyon Script', cursive;
+    --fonte-alternativa: 'Aboreto', cursive;
 }
 
 * {
@@ -38,10 +40,10 @@ header {
 
 header > h1 {
     color: white;
-    font-family: var(--fonte-porto);
-    font-size: 13em;
+    font-family: var(--fonte-alternativa);
+    font-size: 8em;
     font-weight: lighter;
-    text-shadow: 5px 5px 8px var(--cor1);
+    text-shadow: 5px 5px 5px var(--cor1);
 }
 
 nav {
