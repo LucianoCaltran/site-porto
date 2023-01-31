@@ -40,7 +40,7 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte-alternativa);
-    font-size: 8em;
+    font-size: 7em;
     font-weight: lighter;
     text-shadow: 5px 5px 2px var(--cor1);
 }
