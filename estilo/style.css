@@ -35,7 +35,7 @@ header {
     max-height: 200px;
 }
 
-/*header > h1 {
+header > h1 {
     color: white;
     font-family: var(--fonte-alternativa);
     font-size: 7.5em;
@@ -44,9 +44,9 @@ header {
     text-shadow: 5px 5px 5px var(--cor1);
     position: relative;
     padding: 50px 50px;
-}*/
+}
 
-header > h1 {
+/*header > h1 {
     color: white;
     font-family: var(--fonte-alternativa);
     font-size: 7.5em;
@@ -55,7 +55,7 @@ header > h1 {
     text-shadow: 5px 5px 5px var(--cor1);
     margin: 0px 0px 10px 0px;
     padding: 30px 0px;
-}
+}*/
 
 nav {
     text-indent: 15px;
