@@ -92,6 +92,7 @@ nav > a:hover {
 }
 
 main > article {
+    position: relative;
     margin: auto;
     min-width: 300px;
     max-width: 1050px;
