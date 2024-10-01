@@ -94,7 +94,7 @@ nav > a:hover {
 main > article {
     position: relative;
     margin: auto;
-    min-width: 300px;
+    min-width: 350px;
     max-width: 1050px;
     color: black;
     background-color: rgb(240, 240, 240);
