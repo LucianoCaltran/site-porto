@@ -58,10 +58,11 @@ header > h1 {
 }*/
 
 nav {
+
     text-indent: 15px;
     text-align: center;
     background-color: var(--cor1);
-    padding: 30px;
+    padding: 10px;
     border: 2px solid white;
     border-radius: 0px 0px 5px 5px;
 }
