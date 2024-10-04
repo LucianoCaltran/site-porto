@@ -31,8 +31,10 @@ header {
     background-image: url('../imagens/Porto_Montage2.jpg');
     background-position: center;
     background-size: cover;
-    min-height: 240px;
-    max-height: 200px;
+    /*min-height: 240px;
+    max-height: 200px;*/
+    min-height: 120px;
+    max-height: 340px;
 }
 
 header > h1 {
@@ -76,12 +78,12 @@ nav{
 }
 nav > a{
     color: white;
-    padding: 15px;
+    padding: 30px;
     border-radius: 5px;
     text-decoration: none;
     font-weight: lighter;
     transition-duration: .5s;
-    position:relative;
+    /*position:relative;*/
     }
 nav > a:hover{
     color: var(--cor3);
