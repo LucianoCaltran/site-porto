@@ -111,16 +111,16 @@ nav > a:hover {
 }*/
 
 main > article {
-    /*position: relative;*/
+    position: relative;
     margin: auto;
-    min-width: 350px;
+    min-width: 300px;
     max-width: 1050px;
     color: black;
     background-color: rgb(240, 240, 240);
     background-image: url('../imagens/old-paper-texture-background_118047-1365.webp');
     padding: 20px 30px 30px 30px;
     box-shadow: 2px 2px 8px var(--cor1);
-    /*margin-bottom: 30px;*/
+    margin-bottom: 30px;
     border: 5px solid var(--cor1);
     border-radius: 0px 0px 10px 10px;
 }
