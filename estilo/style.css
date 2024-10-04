@@ -43,7 +43,7 @@ header > h1 {
     text-shadow: 5px 5px 5px var(--cor1);
     text-align: center;
     position: relative;
-    padding: 30px 0px;
+    padding: 50px 0px;
 }
 
 /*header > h1 {
@@ -70,13 +70,13 @@ header > h1 {
 
 nav{
     background-color: var(--cor1);
-    padding: 10px;
+    padding: 15px;
     text-align: center;
     border: 2px solid white;
 }
 nav > a{
     color: white;
-    padding: 10px;
+    padding: 15px;
     border-radius: 5px;
     text-decoration: none;
     font-weight: lighter;
@@ -111,7 +111,7 @@ nav > a:hover {
 }*/
 
 main > article {
-    position: relative;
+    /*position: relative;*/
     margin: auto;
     min-width: 300px;
     max-width: 1050px;
@@ -119,9 +119,11 @@ main > article {
     background-color: rgb(240, 240, 240);
     background-image: url('../imagens/old-paper-texture-background_118047-1365.webp');
     padding: 20px 30px 30px 30px;
-    box-shadow: 2px 2px 8px var(--cor1);
+    box-shadow: 5px 5px 8px var(--cor1);
     margin-bottom: 30px;
-    border: 5px solid var(--cor1);
+    /*border: 5px solid var(--cor1);*/
+    border: solid var(--cor1);
+    border-width: 3px 3px;
     border-radius: 0px 0px 10px 10px;
 }
 
